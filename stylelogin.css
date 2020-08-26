@@ -1,8 +1,4 @@
-
-
-
-  
-  @media only screen and (orientation: landscape) {
+@media only screen and (orientation: landscape) {
     
      body{
             margin: 0;
@@ -65,7 +61,7 @@
     
   }
 
-  @media only screen and (orientation: portrait){
+@media only screen and (orientation: portrait){
       body{
          display: none; 
          background: url(rotate.png) no-repeat;
