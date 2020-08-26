@@ -6,7 +6,7 @@
   
   if( user.value === "admin"){
      if ( pass.value === "123"){
-    window.location.href = "file:///home/vathsav/varma/old/index.html";    
+    window.location.href = "index223.html";    
   } else {
     check2();
   }
